@@ -64,10 +64,36 @@ https://www.cnblogs.com/BookMiki/p/9844857.html
 参考：  
 https://blog.csdn.net/fangye945a/article/details/102512532  
 
+## 其他工具
+GHS作为一项刚需，已经有不少前辈完成了相关技术的开发和应用，我只是在大佬们的身后捡贝壳  
+这里提供一些工具
+### 人脸搜索/比对
+* 使用了AI进行人脸识别，主要针对AV女优搜索 https://xslist.org/zh 
+* 号称最先进的人脸反向搜索引擎，比较精准，但同一IP每天有搜索10次限制，需翻墙 https://pimeyes.com  
+* 新鲜出炉的，使用了AI进行人脸识别，主要针对Pornhub小姐姐搜索 https://pornstarbyface.com/ 
+* 老牌以图搜图工具 https://tineye.com 
+* Multi-service image search，主要针对动画、游戏、壁纸图片搜索 https://iqdb.org 
+* 主要针对Pixiv （pixiv.net）图片搜索 https://saucenao.com
+* 主要针对二次元图片搜索 http://www.ascii2d.net
+* 主要针对动漫视频截图搜索 https://trace.moe 
+### AV信息查询索引
+* avmoo和javlibrary是日本知名的在线成人视频库
+* javbus为成人影片的磁力链接数据库
+### 隔壁大佬的牛逼项目（截止到20220223）
+* AVbook系统 8.2k stars  https://github.com/guyueyingmu/avbook
+* JAViewer 4.6k stars https://github.com/SplashCodes/JAViewer
+* javdst https://github.com/JustMachiavelli/javsdt
+* JAVClub 2.7k stars https://github.com/JAVClub/core
+* JBusDriver 2.1k stars https://github.com/Ccixyj/JBusDriver
+* JavRocket 1.8k stars https://github.com/gentlemansolo/JavRocket
+* JavScraper Emby/Jellyfin 的一个日本电影刮削器插件 1.7k stars https://github.com/JavScraper/Emby.Plugins.JavScraper
+* AVDC 日本电影元数据刮削器，配合kodi,emby,plex等本地媒体管理工具使用 1.3k stars https://github.com/moyy996/AVDC  
+讲真，这个和我最后想实现的东西有点接近
+* Gfriends 823 stars 女友头像仓库 https://github.com/xinxin8816/gfriends
+
 ## 附录
 附上我自己排的颜值分类头尾三部分  
 审美这件事萝卜青菜各有所爱，望与大家友好探讨
-
 ### T0 SSS 颜值天花板
 * 桃谷绘里香
 * 枫可怜
